@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 29 Jun 2022 20:04:45 at https://www.cymolthemes.com/html/shiftler/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cymolthemes.com/html/shiftler/index.html -O1 "E:\AFIF bhaiaya" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:06:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.cymolthemes.com/html/shiftler/product-details.html (from https://www.cymolthemes.com/html/shiftler/index.html)
+20:06:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.cymolthemes.com/html/shiftler/cart.html (from https://www.cymolthemes.com/html/shiftler/index.html)
+20:06:20	Error: 	"Error when decompressing" (-1) at link https://www.cymolthemes.com/html/shiftler/âhttps://www.cymolthemes.com/html/shiftler/home-6.htmlâ (from https://www.cymolthemes.com/html/shiftler/home-6.html)
+20:06:20	Error: 	"Not Found" (404) at link https://www.cymolthemes.com/html/shiftler/contact-us.html (from https://www.cymolthemes.com/html/shiftler/header-style-04.html)
+20:06:20	Error: 	"Not Found" (404) at link https://www.cymolthemes.com/html/shiftler/james-cameron (from https://www.cymolthemes.com/html/shiftler/road-fright-services.html)
+20:06:20	Error: 	"Not Found" (404) at link https://www.cymolthemes.com/html/shiftler/single-style-1.html (from https://www.cymolthemes.com/html/shiftler/road-fright-services.html)
+20:06:20	Error: 	"Not Found" (404) at link https://www.cymolthemes.com/html/shiftler/single-style-2.html (from https://www.cymolthemes.com/html/shiftler/road-fright-services.html)
+20:06:20	Error: 	"Not Found" (404) at link https://www.cymolthemes.com/html/shiftler/single-style-3.html (from https://www.cymolthemes.com/html/shiftler/road-fright-services.html)
+20:06:20	Error: 	"Not Found" (404) at link https://www.cymolthemes.com/html/shiftler/blog.html (from https://www.cymolthemes.com/html/shiftler/road-fright-services.html)
+20:06:20	Error: 	"Not Found" (404) at link https://www.cymolthemes.com/html/shiftler/blog-single.html (from https://www.cymolthemes.com/html/shiftler/road-fright-services.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 34 seconds : 283 links scanned, 272 files written (30042338 bytes overall) [28490541 bytes received at 303090 bytes/sec], 2049850 bytes transferred using HTTP compression in 44 files, ratio 20%, 23.5 requests per connection
+(8 errors, 2 warnings, 0 messages)
